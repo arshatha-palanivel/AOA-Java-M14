@@ -67,4 +67,3 @@ public class FrogJump {
 
 The program was successfully implemented using Dynamic Programming and the expected output was verified.
 
-If you want, I can prepare **EX 4C, 4D** also.
